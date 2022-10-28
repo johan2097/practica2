@@ -1,2 +1,5 @@
-# softka2
-Taller numero dos de softka sobre tema de condicionales.
+
+practica1
+
+Trabajo hecho con pseint acorde a los cincos puntos propuestos.
+
