@@ -1,5 +1,5 @@
 
-practica1
+practica2
 
 Trabajo hecho con pseint acorde a los cincos puntos propuestos.
 
